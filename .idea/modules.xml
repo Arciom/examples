@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressBook.iml" filepath="$PROJECT_DIR$/.idea/modules/addressBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressBook_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressBook_main.iml" group="addressBook" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressBook_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressBook_test.iml" group="addressBook" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/andersenlab.iml" filepath="$PROJECT_DIR$/.idea/modules/andersenlab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/andersenlab_main.iml" filepath="$PROJECT_DIR$/.idea/modules/andersenlab_main.iml" group="andersenlab" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/andersenlab_test.iml" filepath="$PROJECT_DIR$/.idea/modules/andersenlab_test.iml" group="andersenlab" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gmail.iml" filepath="$PROJECT_DIR$/.idea/modules/gmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gmail_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gmail_main.iml" group="gmail" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gmail_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gmail_test.iml" group="gmail" />
+    </modules>
+  </component>
+</project>
