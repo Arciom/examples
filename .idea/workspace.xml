@@ -58,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationManager.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ApplicationManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/andersenlab/src/test/java/com/andersenlab/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -130,7 +130,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="remote.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="remote.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/andersenlab/src/test/resources/remote.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -1011,14 +1011,14 @@
         <option value="$PROJECT_DIR$/andersenlab/src/test/java/com/andersenlab/model/CVData.java" />
         <option value="$PROJECT_DIR$/andersenlab/src/test/resources/logback.xml" />
         <option value="$PROJECT_DIR$/andersenlab/src/test/resources/local.properties" />
-        <option value="$PROJECT_DIR$/andersenlab/src/test/resources/remote.properties" />
         <option value="$PROJECT_DIR$/andersenlab/src/test/java/com/andersenlab/ApplicationManager.java" />
+        <option value="$PROJECT_DIR$/andersenlab/src/test/resources/remote.properties" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="26" />
-    <option name="y" value="522" />
+    <option name="x" value="-16" />
+    <option name="y" value="320" />
     <option name="width" value="1148" />
     <option name="height" value="421" />
   </component>
@@ -1197,7 +1197,7 @@
       <option name="METHOD_NAME" value="testSendCV" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dbrowser=firefox" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=firefox " />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/andersenlab" />
       <option name="OUTPUT_DIRECTORY" value="" />
@@ -1382,39 +1382,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CareersTest_testSendCV - 2017.08.31 at 22h 09m 33s.xml">
-      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CareersTest_testSendCV - 2017.08.31 at 22h 11m 58s.xml">
-      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CareersTest_testSendCV - 2017.08.31 at 22h 16m 15s.xml">
-      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CareersTest_testSendCV - 2017.08.31 at 22h 18m 21s.xml">
-      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CareersTest_testSendCV - 2017.08.31 at 22h 29m 02s.xml">
-      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CareersTest_testSendCV - 2017.08.31 at 22h 32m 38s.xml">
-      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CareersTest_testSendCV - 2017.09.01 at 13h 24m 17s.xml">
-      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CareersTest_testSendCV - 2017.09.01 at 21h 10m 26s.xml">
-      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CareersTest_testSendCV - 2017.09.02 at 20h 52m 39s.xml">
-      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="CareersTest_testSendCV - 2017.09.03 at 11h 16m 47s.xml">
+      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CareersTest_testSendCV - 2017.09.03 at 12h 36m 48s.xml">
+      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CareersTest_testSendCV - 2017.09.03 at 12h 39m 48s.xml">
+      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CareersTest_testSendCV - 2017.09.03 at 12h 40m 08s.xml">
+      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CareersTest_testSendCV - 2017.09.03 at 12h 41m 15s.xml">
+      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CareersTest_testSendCV - 2017.09.03 at 12h 43m 06s.xml">
+      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CareersTest_testSendCV - 2017.09.03 at 12h 43m 15s.xml">
+      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CareersTest_testSendCV - 2017.09.03 at 12h 43m 45s.xml">
+      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CareersTest_testSendCV - 2017.09.03 at 12h 56m 19s.xml">
+      <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CareersTest_testSendCV - 2017.09.03 at 12h 57m 10s.xml">
       <configuration name="CareersTest.testSendCV" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="522" width="1148" height="421" extended-state="1" />
+    <frame x="-16" y="320" width="1148" height="421" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1423,10 +1423,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40957448" sideWeight="0.5033948" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.059027776" sideWeight="0.49660525" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5069444" sideWeight="0.49660525" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11764706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25827205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04595588" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1774,18 +1774,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/andersenlab/src/test/resources/remote.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/andersenlab/src/test/java/com/andersenlab/ApplicationManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="53" column="44" lean-forward="false" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/andersenlab/src/test/resources/remote.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
           <folding />
         </state>
       </provider>
