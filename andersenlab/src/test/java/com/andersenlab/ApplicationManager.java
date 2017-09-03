@@ -55,11 +55,6 @@ public class ApplicationManager {
          driver = new RemoteWebDriver(new URL(properties.getProperty("selenium.server")), capabilities);
      }
 
-
-      //  baseUrl = "https://www.andersenlab.com/";
-      //  baseUrl = driver.get(properties.getProperty("web.baseUrl"));
-     // driver.get("https://www.andersenlab.com/");
-      //  driver.get(baseUrl);
         driver.get(properties.getProperty("web.baseUrl"));
         navigationHelper = new NavigationHelper(driver);
         careersHelper = new CareersHelper(driver);

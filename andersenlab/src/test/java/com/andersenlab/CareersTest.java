@@ -4,8 +4,8 @@ import com.andersenlab.model.CVData;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.thoughtworks.xstream.XStream;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import org.openqa.selenium.By;
+import org.testng.Assert;
 import org.testng.annotations.*;
 
 import java.io.*;
@@ -13,6 +13,8 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.stream.Collectors;
+
+import static org.testng.Assert.assertTrue;
 
 public class CareersTest extends TestBase {
 
@@ -70,28 +72,6 @@ public class CareersTest extends TestBase {
   @Test(dataProvider =  "validCvDataJson")
   public void testSendCV(CVData cvData) throws Exception {
     app.careers().fillSendCVForm(cvData);
+ // assertTrue(app.careers().isElementOnPage(locator));
   }
-
-  @Test(enabled = false)
-  public void testDrop() throws Exception {
-    File cv = new File("src/test/resources/Resume.PDF");
-    CVData cvData = new CVData().withCv(cv);
-    app.careers().fillDrop(cvData);
-  }
-
-  @Test(enabled = false)
-  public void testSendCVwithoutResume() throws Exception {
-
-    CVData cvData = new CVData().withName("arciom").withEmail("swert.rem@gmail.com").withPlace("Minsk");
-    app.careers().fillSendCVFormWithoutCV(cvData);
-  }
-
-//  public void testCurrentDir() {
-//    File curentDir = new File(".");
-//    String absolutePath = curentDir.getAbsolutePath();
-//    System.out.println(absolutePath);
-//    File cv = new File("src/test/resources/Resume.PDF");
-//    System.out.println(cv.getAbsolutePath());
-//    System.out.println(cv.exists());
-//  }
 }

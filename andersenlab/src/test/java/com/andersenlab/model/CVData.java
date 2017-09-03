@@ -54,12 +54,4 @@ public class CVData {
                 ", cv=" + cv +
                 '}';
     }
-
-
-//    public CVData(String name, String email, String place) {
-//        this.name = name;
-//        this.email = email;
-//        this.place = place;
-//    }
-
 }

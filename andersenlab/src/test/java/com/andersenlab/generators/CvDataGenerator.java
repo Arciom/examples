@@ -82,11 +82,10 @@ public class CvDataGenerator {
     }
 
     private List<CVData> generateCVData(int count) {
-       // String cv = new String("src/test/resources/Resume.PDF");
         List<CVData> cvDataList = new ArrayList<CVData>();
         for (int i = 0; i < count; i++) {
             cvDataList.add(new CVData().withName(String.format("name %s", i))
-                                       .withEmail(String.format("%s", "swert.rem@gmail.com"))
+                                       .withEmail(String.format("%s", "sample@gmail.com"))
                                        .withPlace(String.format("%s", "Minsk"))
                                        .withCv(new File(String.format("%s", "\"src/test/resources/Resume.PDF\""))));
         }
